@@ -1,2 +1,2 @@
-# Cantide-games101-hw
-Cantide's games101 hw
+# My first project on GitHub
+This repository contains files that showcase my hw of games101
